@@ -3,7 +3,8 @@
     "python.pythonPath": "venv\\Scripts\\python.exe",
     "python.linting.pylintArgs": [
         "--load-plugins=pylint_django",
-        "--disable=C0111"
+        "--disable=C0111",
+        "--disable=too-many-ancestors"
     ],
     "[python]": {
         "editor.formatOnPaste": true
