@@ -1,0 +1,7 @@
+body {
+    background: rgba(255, 255, 255, 0.1) url("images/beach-background.jpg") no-repeat fixed center;
+}
+
+li a {
+    color: rgb(77, 59, 55);
+}
